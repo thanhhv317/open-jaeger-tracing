@@ -1,0 +1,24 @@
+[2022-01-12T16:48:45.562] [INFO] 143728 888888 - app environment: dev
+[2022-01-12T16:48:45.638] [INFO] 143728 888888 - [queue]--reconnect
+[2022-01-12T16:48:45.651] [INFO] 143728 888888 - Database connected: {"url":"mongodb://10.11.30.3,10.11.30.4:27017/finviet?replicaSet=fv1","option":{"poolSize":10},"debug":true} 
+[2022-01-12T16:48:48.670] [ERROR] 143728 888888 - { inspect: [Function: inspect] }
+[2022-01-12T16:48:48.681] [INFO] 143728 888888 - [queue]--reconnect
+[2022-01-12T16:48:51.723] [ERROR] 143728 888888 - { inspect: [Function: inspect] }
+[2022-01-12T16:48:51.734] [INFO] 143728 888888 - [queue]--reconnect
+[2022-01-12T16:48:54.765] [ERROR] 143728 888888 - { inspect: [Function: inspect] }
+[2022-01-12T16:48:54.773] [INFO] 143728 888888 - [queue]--reconnect
+[2022-01-12T16:48:57.800] [ERROR] 143728 888888 - { inspect: [Function: inspect] }
+[2022-01-12T16:48:57.802] [INFO] 143728 888888 - [queue]--reconnect
+[2022-01-12T16:49:00.841] [ERROR] 143728 888888 - { inspect: [Function: inspect] }
+[2022-01-12T16:49:00.855] [INFO] 143728 888888 - [queue]--reconnect
+[2022-01-12T16:49:03.880] [INFO] 143728 888888 - [queue]--reconnect
+[2022-01-12T16:50:05.362] [INFO] 144751 888888 - app environment: dev
+[2022-01-12T16:50:57.273] [INFO] 144751 888888 - [queue]--reconnect
+[2022-01-12T16:50:57.289] [INFO] 144751 888888 - Database connected: {"url":"mongodb://10.11.30.3,10.11.30.4:27017/finviet?replicaSet=fv1","option":{"poolSize":10},"debug":true} 
+[2022-01-12T16:51:00.299] [INFO] 144751 888888 - [queue]--reconnect
+[2022-01-12T16:51:03.329] [ERROR] 144751 888888 - { inspect: [Function: inspect] }
+[2022-01-12T16:51:03.331] [INFO] 144751 888888 - [queue]--reconnect
+[2022-01-12T16:51:06.353] [INFO] 144751 888888 - [queue]--reconnect
+[2022-01-12T16:51:09.385] [INFO] 144751 888888 - [queue]--reconnect
+[2022-01-12T16:51:15.779] [ERROR] 144751 888888 - { inspect: [Function: inspect] }
+[2022-01-12T16:51:15.782] [INFO] 144751 888888 - [queue]--reconnect
