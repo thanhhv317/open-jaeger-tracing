@@ -7,6 +7,7 @@ const tracer = initTracer("hello-world");
 const sayHello = helloTo => {
   const span = tracer.startSpan("say-hello");
   const ctx = {span};
+  console.log(ctx);
   span.setTag("hello-to", helloTo)
   const helloStr = formatString(ctx, helloTo);
   printHello(ctx, helloStr);
